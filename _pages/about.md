@@ -17,13 +17,21 @@ social: true  # includes social icons at the bottom of the page
 Yimeng Chen, Master's candidate in Communication, Nanjing University; Bachelor of Philosophy, Beijing Normal University.
 
 ## Contact Information
-Zijin Building, Room 307, Nanjing University (Xianlin Campus), No. 163 Xianlin Avenue, Qixia District, Nanjing City, Jiangsu Province, China (Postal Code: 210023)
-ORCID: 0009-0006-9251-8641
+- Zijin Building, Room 307, Nanjing University (Xianlin Campus), No. 163 Xianlin Avenue, Qixia District, Nanjing City, Jiangsu Province, China (Postal Code: 210023)
+- ORCID: 0009-0006-9251-8641
 
 ## Education Background
-Sep. 2025 - Present: Master's candidate in the School of Journalism and Communication, Nanjing University
-Sep. 2021 - Jul. 2025: Bachelor of Philosophy in the School of Philosophy, Beijing Normal University
+- Sep. 2025 - Present: Master's candidate in the School of Journalism and Communication, Nanjing University
+- Sep. 2021 - Jul. 2025: Bachelor of Philosophy in the School of Philosophy, Beijing Normal University
 
+## Professional Experience
+- Mar. 2025 - Jun. 2025: AI Product Manager Intern, ByteDance
+- Mar. 2024 - Jul. 2024: Event Operations Intern, NetEase Youdao
+- Sep. 2023 - Feb. 2024: Social Sciences Planning Trainee, Tencent News
+
+## Campus Experience
+- Jun. 2023 - May. 2024: Tutor at the Academic Guidance Office, School of Philosophy, Beijing Normal University
+- May. 2023 - Jun. 2024: President of the Student Union, School of Philosophy, Beijing Normal University
 
 <img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
