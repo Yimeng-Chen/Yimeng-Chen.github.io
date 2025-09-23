@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: false
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: 陈一萌-个人简历.pdf
 description: 
 
 toc:
