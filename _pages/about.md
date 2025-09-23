@@ -34,8 +34,6 @@ Yimeng Chen, Master's candidate in Communication, Nanjing University; Bachelor o
 - Jun. 2023 - May. 2024: Tutor at the Academic Guidance Office, School of Philosophy, Beijing Normal University
 - May. 2023 - Jun. 2024: President of the Student Union, School of Philosophy, Beijing Normal University
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
-
 
 <br>
 
