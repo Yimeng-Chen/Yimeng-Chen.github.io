@@ -12,7 +12,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## Yimeng Chen
+<h1 class="post-title">{{ page.title }}</h1>
+
 Yimeng Chen, Master's candidate in Communication, Nanjing University; Bachelor of Philosophy, Beijing Normal University.
 
 ## Contact Information
