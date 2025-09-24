@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Yimeng Chen
 permalink: /
 subtitle: 
 profile:
