@@ -1,0 +1,8 @@
+/* 强制隐藏所有 PDF 图标（无论颜色） */
+.fas.fa-file-pdf {
+  display: none !important; /* !important 确保优先级最高，覆盖主题默认样式 */
+}
+/* 若仍有残留，补充隐藏紫色样式的 PDF 图标 */
+.fas.fa-file-pdf.text-purple {
+  display: none !important;
+}
